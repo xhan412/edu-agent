@@ -1,0 +1,13 @@
+{
+  "subject": "语文",
+  "grade": "五年级下册",
+  "lesson_title": "第 5 课《草船借箭》",
+  "task_type": "知识图解提示词生成",
+  "style_reference": "soft cream paper background, refined hand-drawn educational infographic, elegant card layout, light Chinese decorative motifs, clean workbook aesthetics",
+  "strict_rules": [
+    "生成提示词时，图片内文字必须全部为简体中文。",
+    "除每个知识点第一张图外，延伸页不显示课文大标题。",
+    "内容过密必须拆成多页，不允许强行压缩到一张图。"
+  ],
+  "source_text": "一、生字注音组词\n妒 dù 嫉妒 妒忌\n忌 jì 忌讳 顾忌\n曹 cáo 曹操 姓曹\n督 dū 都督 督促\n委 wěi 委托 委员\n二、词语听写\n妒忌 曹操 都督 委托 鲁肃 遮住 水寨 擂鼓 呐喊 插满 神机妙算\n三、词语解释\n妒忌：对才能、名誉、地位或境遇比自己好的人心怀怨恨。\n神机妙算：惊人的机智，巧妙的谋划，形容有预见性，善于估计客观情势，决定策略。"
+}
